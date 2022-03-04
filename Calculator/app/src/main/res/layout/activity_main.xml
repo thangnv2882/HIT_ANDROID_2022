@@ -410,7 +410,9 @@
                 android:padding="18dp"
                 android:text="4"
                 android:textAlignment="center"
-                android:textColor="#fff" />
+                android:textColor="#fff"
+
+                />
 
             <Button
                 android:onClick="ButtonClick"

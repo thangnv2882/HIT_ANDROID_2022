@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Register_Success"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Đăng ký thành công"
+        android:textAlignment="center"
+        android:textColor="#000"
+        android:paddingTop="10dp"
+        android:layout_marginTop="100px"
+
+        android:textSize="20dp"
+        android:paddingLeft="20dp"
+
+        />
+    <TextView
+        android:id="@+id/email_register_success"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text=""
+        android:textColor="#000"
+        android:paddingTop="10dp"
+        android:textSize="20dp"
+        android:paddingLeft="20dp"
+
+        />
+    <TextView
+        android:id="@+id/pass_register_success"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text=""
+        android:textColor="#000"
+        android:paddingTop="10dp"
+        android:textSize="20dp"
+        android:paddingLeft="20dp"
+
+        />
+
+
+
+</LinearLayout>
