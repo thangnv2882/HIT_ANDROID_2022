@@ -13,10 +13,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.android.volley.Response;
 import com.squareup.picasso.Picasso;
-
-import org.json.JSONArray;
 
 import java.util.List;
 
